@@ -1,0 +1,5 @@
+newmtl curb
+map_Kd highway86_curb_3.15m.png
+Kd 1 1 1
+d 1
+
